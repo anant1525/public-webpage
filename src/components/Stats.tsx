@@ -1,8 +1,8 @@
 const Stats = () => (
   <section className="flex justify-around w-full max-w-4xl mx-auto my-10">
     <div className="text-center">
-      <h2 className="text-3xl font-bold">5+</h2>
-      <p>16+ Years of Experience</p>
+      <h2 className="text-3xl font-bold">16+</h2>
+      <p>Years of Experience</p>
     </div>
     <div className="text-center">
       <h2 className="text-3xl font-bold">20+</h2>

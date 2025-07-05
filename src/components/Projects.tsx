@@ -2,11 +2,9 @@ import ProjectCard from './ProjectCard';
 
 const projects = [
   {
-    title: 'Project One',
-    description: 'A brief description of project one.',
-    techStack: ['React', 'Node.js', 'MongoDB'],
-    githubUrl: '#',
-    liveUrl: '#',
+    title: 'H-Cloud Integration',
+    description: 'Horizontal Cloud Integration and Monitoring Platform This project is the integration of Telco Packet Core domain integration with MSDP, with extension of new capabilities like Topology Correlation, VNF-VNF relationships, MITO (MS IT Platform integration) ',
+    techStack: ['Fault Management', 'Inventory', 'Data Lake', 'Automations', 'Zabbix', 'SOA', 'ITSM'],
     imageUrl: 'https://placehold.co/500x300',
   },
   {
