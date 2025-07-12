@@ -58,7 +58,7 @@ const About = () => {
                   <li>Java</li>
                   <li>Python</li>
                   <li>JavaScript</li>
-                  <li>Go</li>
+                  <li>Shell/Perl</li>
                 </ul>
               </div>
               <div className="bg-gray-800 p-6 rounded-lg">
@@ -78,15 +78,14 @@ const About = () => {
                   <li>Docker</li>
                   <li>Kubernetes</li>
                   <li>Jenkins</li>
-                  <li>Git</li>
+                  <li>Git/Gerrit</li>
                 </ul>
               </div>
               <div className="bg-gray-800 p-6 rounded-lg">
                 <FaAward className="text-4xl text-blue-500 mb-4" />
                 <h4 className="text-xl font-bold mb-2">Certifications</h4>
                 <ul className="text-gray-400">
-                  <li>AWS Certified Solutions Architect</li>
-                  <li>Certified Kubernetes Administrator</li>
+                  <li>Google Certified Professional Cloud Architect</li>
                 </ul>
               </div>
             </div>
