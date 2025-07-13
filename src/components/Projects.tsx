@@ -23,8 +23,6 @@ const projects = [
     title: 'Inventory Management Platform',
     description: 'This was a traditional monolithic implementation with app server (web server) under high availability along with database, used for storing the inventory data, important feature due to which this is extensively in use is the abaility to create and control the data constraints, relationships between the data bindings, and if the data is coming then with relation criteria data bindings will be created automatically. the tool is the single source of truth for the topology data and network inventory information for all the underlying systems of fault, ticketing, work orders, performance, machine learning platforms.',
     techStack: ['weblogic', 'oracle', 'java', 'angular', 'javascript'],
-    githubUrl: '#',
-    liveUrl: '#',
     imageUrl: 'https://placehold.co/500x300',
   },
 ];
